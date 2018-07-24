@@ -37,7 +37,7 @@
 ## 3、如何创建通用模型
 1.点击导航栏模型管理下的添加按钮。
 image.png2. 填写body名称、描述，选择类型为其他，然后点击保存按钮，这样就成功创建了通用模型格式——html。
-![](API%E9%80%82%E9%85%8D-%E6%A8%A1%E5%9E%8B%E7%AE%A1%E7%90%86%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%EF%BC%9F/37530F10-32C3-42FC-8FED-BB9466C28CEC.png)
+![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/A2Amodel/37530F10-32C3-42FC-8FED-BB9466C28CEC.png)
 
 2.填写body名称、描述，选择类型为其他，然后点击保存按钮，这样就成功创建了通用模型格式——html。 
-![](API%E9%80%82%E9%85%8D-%E6%A8%A1%E5%9E%8B%E7%AE%A1%E7%90%86%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%EF%BC%9F/image.png)
+![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/A2Amodel/image.png)
