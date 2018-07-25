@@ -46,6 +46,7 @@
 模型管理，可以查看或修改已经添加的模型。点击【添加模型】- “新增模型”页面。
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/A2A/image%208.png)
+
 填写“body名称”，“描述信息”，选择“body类型”，在输入框中键入body模型详情，点击【保存】添加模型，完成对模型的操作。
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/A2A/image%209.png)
