@@ -70,7 +70,7 @@ API分组功能，点击【添加分组】，在弹出窗口中填写“分组�
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%206.png)
 
-项目内所有分组默认为收起状态，仅显示分组名称、描述信息、和分组内API数量。点击分组栏展开查看分组内API信息
+项目内所有分组默认为收起状态，仅显示分组名称、描述信息、和分组内API数量。点击分组栏展开查看分组内API信息。
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%207.png)
 
@@ -78,8 +78,7 @@ API分组功能，点击【添加分组】，在弹出窗口中填写“分组�
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%208.png)
 
-移动API功能，API可以任意移动到项目内所有分组或选择移动到其他项目下的分组中。选择要移动的API，鼠标移至【移动到】，在下拉列表中选择要移动的目标项目/目标分组，即完成移动。注意，当项目内仅有一个默认分组时，
-仅支持将选择API移动到其他项目。
+移动API功能，API可以任意移动到项目内所有分组或选择移动到其他项目下的分组中。选择要移动的API，鼠标移至【移动到】，在下拉列表中选择要移动的目标项目/目标分组，即完成移动。注意，当项目内仅有一个默认分组时，仅支持将选择API移动到其他项目。
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%209.png)
 
