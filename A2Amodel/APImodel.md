@@ -42,10 +42,6 @@
 
 1.点击导航栏模型管理下的添加按钮。
 
-![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/A2Amodel/image 2.png)
-
-2. 填写body名称、描述，选择类型为其他，然后点击保存按钮，这样就成功创建了通用模型格式——html。
-
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/A2Amodel/37530F10-32C3-42FC-8FED-BB9466C28CEC.png)
 
 2.填写body名称、描述，选择类型为其他，然后点击保存按钮，这样就成功创建了通用模型格式——html。 
