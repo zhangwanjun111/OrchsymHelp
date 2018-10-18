@@ -244,11 +244,9 @@ API分组功能，点击【添加分组】，在弹出窗口中填写“分组�
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2040.png)
 
-![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2041.png)
-
 2、进入项目详细信息页面，在项目内API列表中，点击下入中任意API【文档】按钮，即可跳转该API所属项目的文档中心页面。
 
-![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2042.png)
+![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2041.png)
 
 3、在A2A和D2A生成平台，点击进入项目后，点击某一API的【文档】按钮，即跳转该API所属项目的文档中心页面。
 
