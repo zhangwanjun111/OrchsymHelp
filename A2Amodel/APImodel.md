@@ -38,7 +38,7 @@
 * age的类型为整形，最小值为0
 * firstName lastName 为字符串类型
 * firstName lastName为必填项
-## 3、如何创建通用模型
+## 3 如何创建通用模型
 
 1.点击导航栏模型管理下的添加按钮。
 
