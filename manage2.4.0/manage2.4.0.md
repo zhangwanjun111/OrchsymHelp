@@ -1,11 +1,14 @@
 # 管理平台使用说明2.4.0
-1、API管理
-1.1  登陆
+## 1、API管理
+### 1.1  登陆
 进入数聚蜂巢API Manager登陆页面，输入登陆邮箱和密码，点击【登陆】，进入平台。
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image.png)
+
 注意：每个账户仅允许5次登陆信息错误输入，5次全部输入错误后，账户将被锁定，锁定时间为1小时，1小时后账号才可自动解除锁定，用户可再次尝试登陆。
+
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%201.png)
-1.2 创建项目
+
+### 1.2 创建项目
 登陆后在左侧导航栏中选择【API管理】-【项目管理】。进入项目列表页面，在项目列表页面可以创建项目和查看已有的项目。
 
 创建一个新项目步骤如下：
