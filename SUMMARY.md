@@ -1,7 +1,7 @@
 # Table of contents
   * [Orchsym使用说明](README.md)
-  * [API管理使用说明](APImanage/APImanage.md)
-  * [A2A产品使用说明](A2A/A2A.md)
+  * [API管理使用说明](manage2.4.0/manage2.4.0.md)
+  * [A2A产品使用说明](A2A2.4.0/A2A2.4.0.md)
   * [D2A产品使用说明](D2A/D2A.md)
   * [透明代理使用说明](proxy/proxy.md)
   * 常见问题
