@@ -145,40 +145,39 @@ API分组功能，点击【添加分组】，在弹出窗口中填写“分组�
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2022.png)
 
-    点击【添加调用者】>>调用者新增页面。
+点击【添加调用者】>>调用者新增页面。
 
-    步骤一：描述信息。
+步骤一：描述信息。
 
-    填写调用者名称、描述信息。
+填写调用者名称、描述信息。
 
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2023.png)
 
-    步骤二：选择认证方式。
+步骤二：选择认证方式。
 
-    用户可以选择Basic认证/ApiKey认证两种方式。Basic认证需填写用户名和密码。ApiKey认证方式，点击【重新生成】，可生成新的ApiKey。
+用户可以选择Basic认证/ApiKey认证两种方式。Basic认证需填写用户名和密码。ApiKey认证方式，点击【重新生成】，可生成新的ApiKey。
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2024.png)
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2025.png)
 
-    步骤三：设置授权有效期。
+步骤三：设置授权有效期。
 
-    可以设置调用者权限的有效期，支持长期有效，同时支持设置任意时间范围的权限设置。
+可以设置调用者权限的有效期，支持长期有效，同时支持设置任意时间范围的权限设置。
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2026.png)
 
-    步骤四：读写控制。
+步骤四：读写控制。
 
-    选择允许读写/只允许读，设定该调用者的读写权限。
+选择允许读写/只允许读，设定该调用者的读写权限。
 
-    步骤五：访问频次限制。
+步骤五：访问频次限制。
+开启访问频次限制，可以限制该调用者在单位时间内的访问数量。用户只需将单位时间内可调用频次数值输入即可。
 
-    开启访问频次限制，可以限制该调用者在单位时间内的访问数量。用户只需将单位时间内可调用频次数值输入即可。
+步骤六：访问IP限制。
 
-    步骤六：访问IP限制。
-
-    开启访问IP限制，可以设定该调用者访问的黑/白名单。将IP地址按行隔开输入即可。
+开启访问IP限制，可以设定该调用者访问的黑/白名单。将IP地址按行隔开输入即可。
 
 ![](https://github.com/zhangwanjun111/OrchsymHelp/raw/master/manage2.4.0/image%2027.png)
 
